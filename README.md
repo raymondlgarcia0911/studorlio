@@ -35,5 +35,6 @@ If this is your first time making a website and is having trouble getting starte
 ## Bugs and Issues
 Have a bug or an issue with this template? [Open a new issue](https://github.com/helfi92/studorlio/issues)
 
+
 ## License
 Code released under the [MIT](https://github.com/helfi92/studorlio/blob/master/LICENSE) license
