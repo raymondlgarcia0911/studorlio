@@ -38,3 +38,4 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## License
 Code released under the [MIT](https://github.com/helfi92/studorlio/blob/master/LICENSE) license
+
